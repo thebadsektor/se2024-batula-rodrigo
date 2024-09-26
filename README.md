@@ -1,4 +1,4 @@
-# SD-3101 [Project Title]
+# SD-3101 [Class Scheduling System]
 
 ![Project Banner](https://github.com/oretnom23/php-class-scheduling-system/blob/master/scheduling.png)
 
