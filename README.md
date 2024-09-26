@@ -136,8 +136,8 @@ Explain the structure of the project directory. Example:
 │   ├── contents/
 │   ├── css/
 │   ├── flash/
-|   ├── img/
-|   └── js/
+│   ├── img/
+│   └── js/
 ├── db/
 ├── excel.php/
 ├── img/
