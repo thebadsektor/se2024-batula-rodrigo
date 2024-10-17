@@ -155,7 +155,20 @@ Explain the structure of the project directory. Example:
 ## Project Timeline
 
 
-- **Week 1-2**: Research and project planning.
+- **Week 1-2**: Collaborative Brainstorming for Feature Development
+- 8/14/24
+- https://youtu.be/FNmUtghXdp0?si=ybTMDk5qD5ms0DDw
+- Proposed Features
+  1. Forgot Password
+  2. Search Filters
+  3. Error Handling
+  4. User-Side Search
+  5. Edit Account
+  6. Teachers Schedules
+  7. Drop-Down Calendar of Events
+  8. Notification for No Schedules Available
+  9. Archives
+  10. Schedule Conflict Alert
 - **Week 3-5**: Design and setup.
 - **Week 6-10**: Implementation.
 - **Week 11-12**: Testing and debugging.
